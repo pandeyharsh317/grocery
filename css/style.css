@@ -1,0 +1,59 @@
+.img {
+    background-image: url("image/banner1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+}
+.logo
+{
+    position:absolute;
+    left: 2%;
+    top: 3%;
+}
+.nav li
+{
+    list-style: none;
+    color: white;
+    display: inline;
+    background: transparent;
+    text-align: right;
+}
+.para
+{
+    position: absolute;
+    top: 15%;
+    left: 13%;
+    font-size: 220px;
+    color: white;
+}
+.btn1{
+    height: 40px;
+    width: 170px;
+    color: white;
+    border: 2px solid white;
+    position:absolute;
+    left: 45%;
+    top: 60%;
+    background: transparent;
+}
+.checkoffer
+{
+height: 45px;
+width: 200px;
+border: 2px solid orange;
+color: orange;
+background-color: white;
+}
+.cir
+{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: orangered;
+    text-align: center;
+    font-size: 28px;
+    margin-left: 45%;
+    color: white;
+    border:5px solid rgba(219, 219, 219, 0.966);
+}
